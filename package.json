@@ -1,0 +1,19 @@
+{
+  "name": "binsta-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgarciaoliveira/binsta-common.git"
+  },
+  "author": "Bruno Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgarciaoliveira/binsta-common/issues"
+  },
+  "homepage": "https://github.com/bgarciaoliveira/binsta-common#readme"
+}
